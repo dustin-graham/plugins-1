@@ -1,5 +1,5 @@
-import 'package:flutter/gestures.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/gestures.dart';
+import 'package:flutter_web/material.dart';
 
 import 'responsive_list.dart';
 import 'views/index.dart';

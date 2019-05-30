@@ -1,7 +1,7 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 import 'dart:io' show Platform;
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/foundation.dart';
 import 'examples/index.dart';
 
 // The existing imports
